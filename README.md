@@ -23,10 +23,7 @@ This simulator not only asks relevant coding or domain-based questions using gen
 
 ---
 <img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/d1c86d39-2bfd-4082-863e-124057ba3b2e" />
-
-<img width="1427" height="816" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/ad9cc75a-a2ea-4dbd-aab6-8404eff2f541" />
 <img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/65bc8618-95e6-4185-8a38-7d78aa14d56e" />
-
 <img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/f5ca4850-7256-4acc-b0d3-47f94a4fdb23" />
 
 
