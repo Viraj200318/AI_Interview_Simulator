@@ -22,6 +22,7 @@ This simulator not only asks relevant coding or domain-based questions using gen
 - **Screenshot and Face Capture**: Saves evidence of interview behavior.
 
 ---
+<img width="1427" height="816" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/6b8bed57-67bc-4498-95c1-585d5aa9d8ea" />
 <img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/d1c86d39-2bfd-4082-863e-124057ba3b2e" />
 <img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/f5ca4850-7256-4acc-b0d3-47f94a4fdb23" />
 
